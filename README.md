@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Eduard!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data science, Head of Risk Management Department</h3>
 
-<!--
-**eZarapov/eZarapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">TECHNOLOGY STACK</h3>
 
-Here are some ideas to get you started:
+- Python: Pandas, Matplotlib, Scikit-Learn, Keras
+- SQL
+- Julia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">TOOLS</h3>
+
+- Jupyter Notebook
+- DataLens
+- VS Code
+- Git
+
+<img src="https://www.codewars.com/users/eZarapov/badges/small">
+
